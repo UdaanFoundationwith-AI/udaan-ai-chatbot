@@ -47,3 +47,4 @@ st.markdown("""
         Made with 💜 by <b>Maheen Khan</b>
     </div>
 """, unsafe_allow_html=True)
+
